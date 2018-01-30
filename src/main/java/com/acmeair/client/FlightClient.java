@@ -1,5 +1,5 @@
 /*******************************************************************************
-* Copyright (c) 2017 IBM Corp.
+* Copyright (c) 2017 IBM Corp ..
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ package com.acmeair.client;
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 */
 
-public interface FlightClient {
+public interface FlightClient  {
 
   // Default to amalgam8 default
   /* microprofile-1.1
